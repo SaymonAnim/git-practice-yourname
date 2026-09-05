@@ -1,6 +1,5 @@
 from datetime import date
-# pyright: reportMissingImports=false
-from utils import add, subtract
+from utils import add, multiply, subtract
 
 def main():
   print("Saymon Sorowar")
